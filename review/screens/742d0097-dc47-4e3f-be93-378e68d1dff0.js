@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1024" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1744150026114.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1744156353337.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-742d0097-dc47-4e3f-be93-378e68d1dff0" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="FAQs"width="1024" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/742d0097-dc47-4e3f-be93-378e68d1dff0/style-1744150026114.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/742d0097-dc47-4e3f-be93-378e68d1dff0/fonts-1744150026114.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/742d0097-dc47-4e3f-be93-378e68d1dff0/style-1744156353337.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/742d0097-dc47-4e3f-be93-378e68d1dff0/fonts-1744156353337.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header align center" datasizewidth="0.00px" datasizeheight="0.00px" >\
         <div id="s-Image_1" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="1030.00px" datasizeheight="380.66px" dataX="0.00" dataY="-1.66"   alt="image">\
@@ -556,6 +556,63 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
 \
+\
+      <div id="s-Image_2" class="image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="365.00px" datasizeheight="166.00px" dataX="-0.00" dataY="378.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/824a70fa-648b-4b2c-88f9-9df45195d8b9.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="Image 3"   datasizewidth="365.00px" datasizeheight="194.00px" dataX="0.00" dataY="562.00"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/208de379-8a90-40ca-8ae8-77692c545531.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_4" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="365.00px" datasizeheight="172.00px" dataX="-0.00" dataY="767.00"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/6563fba9-c551-4b2c-b140-504028653a53.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Text_10" class="richtext manualfit firer ie-background commentable non-processed" customid="Frequently Asked Question"   datasizewidth="363.99px" datasizeheight="62.00px" dataX="512.00" dataY="389.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_10_0">Frequently Asked Questions</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_11" class="richtext manualfit firer ie-background commentable non-processed" customid="&bull; Power outlets are 120 v"   datasizewidth="658.21px" datasizeheight="520.00px" dataX="366.00" dataY="418.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_11_0">&bull; Power outlets are 120 volts (the same as in the United States). <br />&bull; Alcohol is not allowed to be served or sold between the hours of midnight and 9:00 a.m.  <br />&bull; The drinking age on Taniti is 18 and the drinking age is not strictly enforced. <br />&bull; Many younger Tanitians speak fluent English. Very little English is spoken in rural areas, especially by the older residents. <br />&bull; There is one hospital and several clinics. The hospital has many multilingual employees. <br />&bull; Violent crime is very rare on Taniti, but as tourism increases, there are more reports of pickpocketing and other petty crimes.  <br />&bull; Taniti enjoys a large number of national holidays, and many tourist attractions and restaurants will be closed on holidays, so visitors should plan accordingly. <br />&bull; Taniti uses the U.S. dollar as its currency, but many businesses will also accept euros and yen. Several banks facilitate currency exchange, and many businesses accept major credit cards. <br />&bull; Transportation: Almost all visitors arrive to Taniti by air, though some arrive on a small cruise ship that docks in Yellow Leaf Bay for one night per week. Taniti is served by a small airport that can accommodate small jets and propeller planes. Taniti is in the process of expanding the airport so larger jets will be able to land on the island within the next few years.  <br />&bull; Ground Transportation: Public buses serve Taniti City and run from 5 a.m. to 11 p.m. every day. Private buses serve the rest of the island. Taxis are available in Taniti City, and rental cars can be rented from a local rental agency near the airport. Bikes and helmets are available to rent from several vendors (helmets are required by law). Taniti City is fairly flat and very walkable. Many tourists stay in the area surrounding Merriton Landing: this area is easy to explore on foot. </span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\

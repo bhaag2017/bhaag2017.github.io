@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1024" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1744150026114.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1744156353337.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-91fbbfca-8867-43b8-bdf0-341e5e99753c" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Plan Your Visit"width="1024" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/91fbbfca-8867-43b8-bdf0-341e5e99753c/style-1744150026114.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/91fbbfca-8867-43b8-bdf0-341e5e99753c/fonts-1744150026114.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/91fbbfca-8867-43b8-bdf0-341e5e99753c/style-1744156353337.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/91fbbfca-8867-43b8-bdf0-341e5e99753c/fonts-1744156353337.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header align center" datasizewidth="0.00px" datasizeheight="0.00px" >\
         <div id="s-Image_1" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="1030.00px" datasizeheight="380.66px" dataX="0.00" dataY="-1.66"   alt="image">\
@@ -556,6 +556,168 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
 \
+\
+      <div id="s-Image_2" class="image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="427.00px" datasizeheight="165.00px" dataX="-0.00" dataY="378.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/e205d51c-777a-4b4a-9747-3aa9ae879a31.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="Image 3"   datasizewidth="427.00px" datasizeheight="197.00px" dataX="-0.00" dataY="556.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/732a20fb-512a-489c-b98b-d78e88c5191e.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_4" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="427.00px" datasizeheight="176.00px" dataX="-0.00" dataY="762.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/0fcd9b8b-a44c-4eb8-85c4-8d3b874fa452.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Rectangle_2" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 2"   datasizewidth="582.00px" datasizeheight="165.50px" datasizewidthpx="582.0000000000002" datasizeheightpx="165.49999999999994" dataX="442.00" dataY="378.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_2_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Rectangle_3" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 3"   datasizewidth="582.00px" datasizeheight="197.00px" datasizewidthpx="582.0000000000002" datasizeheightpx="196.99999999999977" dataX="442.00" dataY="556.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_3_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Rectangle_4" class="rectangle manualfit firer commentable non-processed" customid="Rectangle 4"   datasizewidth="581.21px" datasizeheight="176.00px" datasizewidthpx="581.206970214844" datasizeheightpx="175.99999999999955" dataX="442.00" dataY="762.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Rectangle_4_0"></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_2" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="164.88px" datasizeheight="37.00px" dataX="649.69" dataY="378.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_2_0">Food Options</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_10" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="102.16px" datasizeheight="37.00px" dataX="649.09" dataY="556.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_10_0">Lodging</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_11" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="144.14px" datasizeheight="37.00px" dataX="628.09" dataY="762.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_11_0">What to Do</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_4" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="573.74px" datasizeheight="140.00px" dataX="450.26" dataY="416.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_4_0">Restaurants:</span><span id="rtr-s-Paragraph_4_1"> Taniti currently has 10 restaurants: five serve mostly &nbsp;local fish and rice, three serve American-style meals, and two serve Pan-Asian cuisine.<br /><br /></span><span id="rtr-s-Paragraph_4_2">Grocery Stores:</span><span id="rtr-s-Paragraph_4_3"> Taniti has two supermarkets, two smaller grocery stores, and one convenience store that is open 24 hours a day. <br /><br /></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_12" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="573.74px" datasizeheight="140.00px" dataX="450.26" dataY="585.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_12_0"><br /></span><span id="rtr-s-Text_12_1">Taniti has a wide variety of lodging that ranges from an inexpensive hostel to one large, four-star resort. There are many small, family-owned hotels and a growing number of bed and breakfasts. All types of lodging are strictly regulated and regularly inspected by the Tanitian government. <br /><br /></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Text_13" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="573.74px" datasizeheight="160.00px" dataX="450.26" dataY="780.50" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Text_13_0"><br /></span><span id="rtr-s-Text_13_1">Taniti offers a wide range of entertainment options, from beaches and rainforest adventures to nightlife, art galleries, and an upcoming golf course, with many attractions centered in Merriton Landing. Tourists often explore Taniti City for its native architecture and relaxing beaches around Yellow Leaf Bay. Popular sightseeing activities also include island tours, hiking, and volcano visits.<br /><br /></span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\

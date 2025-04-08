@@ -118,6 +118,263 @@ jQuery("#simulation")
       jEvent.launchCases(cases);
     }
   })
+  .on("focusout", ".s-d599592c-186c-482a-98f8-c6a6deb78a2c .focusout", function(event, data) {
+    var jEvent, jFirer, cases;
+    if(jimUtil.isAlternateModeActive()) return;
+    if(data === undefined) { data = event; }
+    jEvent = jimEvent(event);
+    event.data = data;
+    jFirer = jEvent.getEventFirer();
+    if(jFirer.is("#s-Input_7")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "condition": {
+                "action": "jimNotEquals",
+                "parameter": [ {
+                  "datatype": "property",
+                  "target": "#s-Input_7",
+                  "property": "jimGetValue"
+                },"" ]
+              },
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_7 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#000000",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#000000",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#000000",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#000000"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_7 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#B3261E",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#B3261E",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#B3261E",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#B3261E"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Input_text_3")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "condition": {
+                "action": "jimNotEquals",
+                "parameter": [ {
+                  "datatype": "property",
+                  "target": "#s-Input_text_3",
+                  "property": "jimGetValue"
+                },"" ]
+              },
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_3 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#000000",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#000000",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#000000",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#000000"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_3 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#B3261E",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#B3261E",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#B3261E",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#B3261E"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Input_text_4")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "condition": {
+                "action": "jimNotEquals",
+                "parameter": [ {
+                  "datatype": "property",
+                  "target": "#s-Input_text_4",
+                  "property": "jimGetValue"
+                },"" ]
+              },
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_4 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#000000",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#000000",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#000000",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#000000"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_4 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#B3261E",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#B3261E",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#B3261E",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#B3261E"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Input_text_5")) {
+      cases = [
+        {
+          "blocks": [
+            {
+              "condition": {
+                "action": "jimNotEquals",
+                "parameter": [ {
+                  "datatype": "property",
+                  "target": "#s-Input_text_5",
+                  "property": "jimGetValue"
+                },"" ]
+              },
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_5 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#000000",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#000000",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#000000",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#000000"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            },
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_5 > .borderLayer" ],
+                    "attributes": {
+                      "border-top-width": "1.0px",
+                      "border-top-color": "#B3261E",
+                      "border-right-width": "1.0px",
+                      "border-right-color": "#B3261E",
+                      "border-bottom-width": "1.0px",
+                      "border-bottom-color": "#B3261E",
+                      "border-left-width": "1.0px",
+                      "border-left-color": "#B3261E"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
+    }
+  })
   .on("mouseenter dragenter", ".s-d599592c-186c-482a-98f8-c6a6deb78a2c .mouseenter", function(event, data) {
     var jEvent, jFirer, cases;
     if(jimUtil.isAlternateModeActive()) return;

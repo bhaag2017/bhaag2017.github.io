@@ -4,3 +4,9 @@
   font-weight: 400; 
   font-display: swap;
 }
+@font-face {
+  font-family: "Corinthia_11.0.0_google";
+  src: url("../../../fonts/Corinthia-Bold_11.0.0_google.ttf");
+  font-weight: 700; 
+  font-display: swap;
+}

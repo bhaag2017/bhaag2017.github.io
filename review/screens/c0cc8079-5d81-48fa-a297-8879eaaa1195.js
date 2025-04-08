@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1024" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1744150026114.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1744156353337.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,8 +12,8 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-c0cc8079-5d81-48fa-a297-8879eaaa1195" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="About Taniti"width="1024" height="1024">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/c0cc8079-5d81-48fa-a297-8879eaaa1195/style-1744150026114.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/c0cc8079-5d81-48fa-a297-8879eaaa1195/fonts-1744150026114.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/c0cc8079-5d81-48fa-a297-8879eaaa1195/style-1744156353337.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/c0cc8079-5d81-48fa-a297-8879eaaa1195/fonts-1744156353337.css" />\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Header align center" datasizewidth="0.00px" datasizeheight="0.00px" >\
         <div id="s-Image_1" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="1030.00px" datasizeheight="380.66px" dataX="0.00" dataY="-1.66"   alt="image">\
@@ -556,6 +556,63 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
         </div>\
       </div>\
 \
+\
+      <div id="s-Image_2" class="image firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="317.00px" datasizeheight="197.00px" dataX="0.00" dataY="378.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/eb8486a6-08fd-4eb3-bc0d-3df53a2aecaf.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_3" class="image firer ie-background commentable non-processed" customid="Image 3"   datasizewidth="366.00px" datasizeheight="197.00px" dataX="332.00" dataY="378.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/4f558009-c668-4765-8877-6a4fe028682b.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_4" class="image firer ie-background commentable non-processed" customid="Image 4"   datasizewidth="314.00px" datasizeheight="197.00px" dataX="710.00" dataY="378.50"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/273bf1c4-dc51-40f7-bdba-e385a1da6c05.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_4" class="richtext manualfit firer ie-background commentable non-processed" customid="H3"   datasizewidth="983.79px" datasizeheight="242.00px" dataX="20.11" dataY="724.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_4_0">Taniti is a small, tropical island in the Pacific. While the island has an area of less than 500 square miles, the terrain is varied and includes both sandy and rocky beaches, a small but safe harbor, lush tropical rainforests, and a mountainous interior that includes a small, active volcano. Taniti has an indigenous population of about 20,000. Until a recent increase in tourism, most the Tanitian economy was dominated by fishing or agriculture. </span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_2" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="440.60px" datasizeheight="120.00px" dataX="291.70" dataY="590.00" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_2_0">About Taniti</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
       </div>\
 \
       </div>\
