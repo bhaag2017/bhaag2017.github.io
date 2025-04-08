@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Arizonia_21.0.0_google";
+  src: url("../../../fonts/Arizonia-Regular_21.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Bonheur Royale_13.0.0_google";
+  src: url("../../../fonts/Bonheur Royale-Regular_13.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
+@font-face {
+  font-family: "Cagliostro_21.0.0_google";
+  src: url("../../../fonts/Cagliostro-Regular_21.0.0_google.ttf");
+  font-weight: 400; 
+  font-display: swap;
+}
