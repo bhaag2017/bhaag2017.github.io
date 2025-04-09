@@ -954,8 +954,8 @@
 }
 #s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_3 {
   position: absolute;
-  width: 462.6034851074213px;
-  height: 52.742534331043316px;
+  width: 462.6034851074214px;
+  height: 47.52905811698707px;
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
@@ -1015,8 +1015,8 @@
 }
 #s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_4 {
   position: absolute;
-  width: 462.6034851074212px;
-  height: 52.742534331043316px;
+  width: 462.6034851074213px;
+  height: 47.52905811698702px;
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
@@ -1076,8 +1076,8 @@
 }
 #s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Input_text_5 {
   position: absolute;
-  width: 462.60348510741926px;
-  height: 235.1468178546029px;
+  width: 462.6034851074194px;
+  height: 211.90310464959657px;
   -webkit-transform: rotate(0.0deg);
   -moz-transform: rotate(0.0deg);
   transform: rotate(0.0deg);
@@ -1173,6 +1173,64 @@
   text-decoration: none;
   font-family: 'Bell MT_1.51.0_system',Arial;
   font-size: 54.0pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 {
+  position: absolute;
+  width: 150.0px;
+  min-height: 45.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 > .backgroundLayer > .colorLayer {
+  background-color: #82888C;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 > .borderLayer {
+  border-top-width: 1.0px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 1.0px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 1.0px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 1.0px;
+  border-left-style: solid;
+  border-left-color: #000000;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 span {
+  color: #000000;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 11.25pt;
+  font-weight: 400;
+  text-transform: none;
+}
+#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 span#rtr-s-Button_6_0 {
+  color: #000000;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 11.25pt;
   font-weight: 400;
   text-transform: none;
 }

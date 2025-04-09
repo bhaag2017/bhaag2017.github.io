@@ -928,6 +928,42 @@ jQuery("#simulation")
         }
       ];
       jEvent.launchCases(cases);
+    } else if(jFirer.is("#s-Button_6") && jFirer.has(event.relatedTarget).length === 0) {
+      event.backupState = true;
+      event.target = jFirer;
+      window.overTargets.push(jFirer.get(0));
+      cases = [
+        {
+          "blocks": [
+            {
+              "actions": [
+                {
+                  "action": "jimChangeStyle",
+                  "parameter": [ {
+                    "target": [ "#s-d599592c-186c-482a-98f8-c6a6deb78a2c #s-Button_6 > .backgroundLayer > .colorLayer" ],
+                    "attributes": {
+                      "background-color": "#F6F7F8"
+                    }
+                  } ],
+                  "exectype": "serial",
+                  "delay": 0
+                },
+                {
+                  "action": "jimChangeCursor",
+                  "parameter": {
+                    "type": "pointer"
+                  },
+                  "exectype": "serial",
+                  "delay": 0
+                }
+              ]
+            }
+          ],
+          "exectype": "serial",
+          "delay": 0
+        }
+      ];
+      jEvent.launchCases(cases);
     }
   })
   .on("mouseleave dragleave", ".s-d599592c-186c-482a-98f8-c6a6deb78a2c .mouseleave", function(event, data) {
@@ -994,6 +1030,10 @@ jQuery("#simulation")
       	window.overTargets.splice(window.overTargets.indexOf(jFirer.get(0)), 1);
       jEvent.undoCases(jFirer);
     } else if(jFirer.is("#s-Path_12")) {
+      if (window.overTargets.indexOf(jFirer.get(0)) !== -1)
+      	window.overTargets.splice(window.overTargets.indexOf(jFirer.get(0)), 1);
+      jEvent.undoCases(jFirer);
+    } else if(jFirer.is("#s-Button_6")) {
       if (window.overTargets.indexOf(jFirer.get(0)) !== -1)
       	window.overTargets.splice(window.overTargets.indexOf(jFirer.get(0)), 1);
       jEvent.undoCases(jFirer);
